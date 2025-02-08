@@ -7,7 +7,7 @@ This is completely open-source so have a look at it, if you want tell me what I 
 And to the people who are similar to my level of skill (Know the general bits of python but can't make anything really cool) I hope this helps you understand a little more about things like pygames audio mixer and tkinter's gui!
 
 Things I imported:
-pygames (mixer and time)
-tkinter (filedialog and messagebox)
-os
+pygames (mixer and time),
+tkinter (filedialog and messagebox),
+os,
 sys (exit)
